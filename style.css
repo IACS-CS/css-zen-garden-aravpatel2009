@@ -12,10 +12,9 @@
 * - 
 * -
 */
-@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Alegreya+Sans:wght@900&family=Amita:wght@400;700&family=Bokor&family=Dancing+Script:wght@400..700&family=Eagle+Lake&family=Ga+Maamli&family=Great+Vibes&family=Herr+Von+Muellerhoff&family=Kurale&family=Merienda:wght@300..900&family=Ponnala&family=Rajdhani:wght@300;400;500;600;700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Alegreya+Sans:wght@900&family=Alkatra:wght@400..700&family=Amita:wght@400;700&family=Bokor&family=Dancing+Script:wght@400..700&family=Eagle+Lake&family=Ga+Maamli&family=Great+Vibes&family=Herr+Von+Muellerhoff&family=Kurale&family=Merienda:wght@300..900&family=Ponnala&family=Rajdhani:wght@300;400;500;600;700&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 .iacs {
-  color: red;
+  color: rgb(255, 255, 255);
 }
 .page-wrapper{
   background: rgb(255, 169, 0);
@@ -30,7 +29,7 @@ h1 {
   text-decoration-color: red;
   align-items: center;
   margin: auto;
-  color: red;
+  color: #ffffff;
   border: 5px double orange;
   text-shadow: 4px 4px 1px orange;
   font-size: 70px;
@@ -42,11 +41,11 @@ h1 {
  padding-bottom: 5px;
 }
 body {
- font-family: "Rajdhani", sans-serif;
+  font-family: "Alkatra", system-ui;
   line-height: 1.6;
   font-size: 15px;
   text-shadow: 2px 1px 1px orange;
-  color: red;
+  color: #ffffff;
   margin: auto;
   background-image: url(backgrond.jpg); 
   font-weight: 500;  
@@ -73,7 +72,7 @@ h2{
 h4{ font-family: "Eagle Lake", serif;
 }
 a{
-  color:red;
+  color:#ffffff;
 }
 .page-wrapper {
    max-width: calc(100vw - 320px); 
